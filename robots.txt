@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://abdullahfoysal.github.io/arrow-escape/sitemap.xml
