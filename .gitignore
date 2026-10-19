@@ -1,0 +1,12 @@
+# Standalone repo: Abdullahfoysal/arrow-escape (source on main, built site on gh-pages)
+# Build output: published to the gh-pages branch by tools/publish.sh, never committed on main
+dist/
+# Local verification screenshots
+screenshots/
+# Python / OS / editor noise
+__pycache__/
+*.pyc
+.DS_Store
+.vscode/
+.idea/
+*.swp

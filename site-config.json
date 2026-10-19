@@ -1,0 +1,14 @@
+{
+  "_comment": "Fill these in, then run: python3 tools/build.py. Values still in [BRACKETS] or containing <username> count as unfilled: the build warns and marks every page DRAFT. Everything in this file is published; no secrets, IDs or keys. siteUrl is the origin only (no path), e.g. https://abdullahfoysal.github.io. basePath is the project-site prefix. privacyPolicyUrl is the full public URL, e.g. https://abdullahfoysal.github.io/arrow-escape/privacy-policy/.",
+  "basePath": "/arrow-escape",
+  "developerName": "Gayen BD",
+  "postalAddress": "Dhaka, Bangladesh",
+  "supportEmail": "gayenbd@gmail.com",
+  "effectiveDate": "2026-10-20",
+  "jurisdiction": "Bangladesh",
+  "privacyOfficer": "Privacy Officer, Gayen BD",
+  "siteUrl": "https://abdullahfoysal.github.io",
+  "privacyPolicyUrl": "https://abdullahfoysal.github.io/arrow-escape/privacy-policy/",
+  "googlePlayUrl": "",
+  "appStoreUrl": ""
+}

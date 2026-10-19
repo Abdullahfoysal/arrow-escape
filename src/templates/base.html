@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{title}}</title>
+<meta name="description" content="{{description}}">
+{{robots_meta}}<meta name="color-scheme" content="light dark">
+<meta name="theme-color" content="#F4F6FB" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0F1320" media="(prefers-color-scheme: dark)">
+<link rel="canonical" href="{{canonical}}">
+<link rel="icon" href="/favicon.ico" sizes="32x32">
+<link rel="icon" href="/assets/img/icon-192.png" type="image/png" sizes="192x192">
+<link rel="apple-touch-icon" href="/assets/img/apple-touch-icon.png">
+<link rel="preload" href="/assets/fonts/Manrope-Bold.woff" as="font" type="font/woff" crossorigin>
+<link rel="stylesheet" href="/assets/css/site.css">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Arrow Escape: Tap Puzzle">
+<meta property="og:title" content="{{og_title}}">
+<meta property="og:description" content="{{description}}">
+<meta property="og:url" content="{{canonical}}">
+<meta property="og:image" content="{{og_image}}">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Arrow Escape app icon: white tiles with navy arrows, one sliding off to the right, on a blue background.">
+<meta name="twitter:card" content="summary_large_image">
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to content</a>
+{{draft_banner}}<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="/"><img src="/assets/img/icon-64.png" alt="" width="36" height="36"><span>Arrow Escape</span></a>
+    <nav class="site-nav" aria-label="Main">
+      <ul>
+        <li><a href="/support/"{{cur_support}}>Support</a></li>
+        <li><a href="{{privacy_path}}"{{cur_privacy}}>Privacy</a></li>
+        <li><a href="{{terms_path}}"{{cur_terms}}>Terms</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+<main id="main">
+{{content}}
+</main>
+<footer class="site-footer">
+  <div class="wrap">
+    <nav aria-label="Footer">
+      <ul>
+        <li><a href="{{privacy_path}}">Privacy Policy</a></li>
+        <li><a href="{{terms_path}}">Terms of Service</a></li>
+        <li><a href="/support/">Support</a></li>
+        <li><a href="/licenses/">Licences</a></li>
+      </ul>
+    </nav>
+    <p>Contact: {{support_email_html}}</p>
+    <p>&copy; {{year}} {{developer_name}}. Arrow Escape: Tap Puzzle.</p>
+  </div>
+</footer>
+</body>
+</html>
