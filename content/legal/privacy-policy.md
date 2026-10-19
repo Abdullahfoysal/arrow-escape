@@ -95,7 +95,7 @@ We are based in Bangladesh, and we handle support and privacy emails from there.
 ## Your choices
 **Everyone can:**
 - Turn off personalised ads and tracking as described in [Consent, tracking and ads](#consent-tracking-and-ads).
-- **Find your Support ID:** open **Settings › About** in the game. Because the game has no accounts, the Support ID is how we find the data linked to your copy of the game. If no Support ID is shown, the game hasn't sent any analytics data from your device.
+- **Find your Support ID:** open **Settings › About** in the game. Because the game has no accounts, the Support ID is how we find the data linked to your copy of the game. If it says "No analytics data collected" instead, the game hasn't sent any analytics data from your device, so there is no analytics data to access or delete.
 - **Ask for deletion:** email [SUPPORT_EMAIL] with the subject "Delete my data" and include your Support ID. We will delete the analytics data and installation ID linked to it within 30 days. Crash reports are deleted automatically after 90 days. Uninstalling the game deletes everything stored on your device. For data held by ad partners, reset or delete your advertising ID and use the partners' own tools linked above.
 - **Ask for access or correction:** email [SUPPORT_EMAIL] with the subject "My data" and your Support ID, and we'll tell you what we hold. Because we don't collect names or emails, we can't find your data without the Support ID.
 - We'll answer from the email address you write from and use it only to handle your request.
@@ -114,6 +114,8 @@ This section applies to residents of California and other US states with similar
 ## Canada
 Under PIPEDA and provincial laws, including Quebec's Law 25, you may access and correct your personal information and withdraw consent, subject to legal limits. Our person responsible for privacy is **[PRIVACY OFFICER NAME/TITLE]**, reachable at [SUPPORT_EMAIL]. You may complain to the Office of the Privacy Commissioner of Canada (https://www.priv.gc.ca) or, in Quebec, the Commission d'accès à l'information (https://www.cai.gouv.qc.ca).
 
+**Profiling for ads:** the game uses technology that lets our ad partners recognise your device by its advertising ID and show you personalised ads. In Canada, the game doesn't show a consent message, so this is on by default on Android. On iPhone and iPad it stays off unless you choose "Allow" when the game asks about tracking. You can turn it off at any time: on Android, delete or reset your advertising ID in your device settings; on iPhone and iPad, turn off tracking for the game in iOS Settings › Privacy & Security › Tracking. You will still see ads, but they won't be based on your advertising ID.
+
 ## New Zealand
 Under the Privacy Act 2020, you may ask to access and correct your personal information. Please contact us first at [SUPPORT_EMAIL]. If we can't resolve your concern, you may complain to the Office of the Privacy Commissioner (https://www.privacy.org.nz).
 
@@ -121,10 +123,10 @@ Under the Privacy Act 2020, you may ask to access and correct your personal info
 Under the Data Privacy Act of 2012, you have the rights to be informed, to access, to object, to rectify, to erase or block, to data portability, and to damages. You may file a complaint with the National Privacy Commission (https://privacy.gov.ph).
 
 ## Bangladesh
-We are based in Bangladesh. If Bangladesh's personal data protection law applies to your data, you have the right to access your personal data (including a summary of how it is processed and who it is disclosed to), to have it corrected or updated, to have it erased in the cases the law allows, to receive it in a portable form, and to withdraw your consent at any time, in whole or in part. To use these rights, see [Your choices](#your-choices). You may also complain to the data protection authority set up under that law.
+We are based in Bangladesh. If Bangladesh's personal data protection law applies to your data, you have the right to access your personal data (including a summary of how it is processed and who it is disclosed to), to have it corrected or updated, to have it erased in the cases the law allows, to receive it in a portable form, and to withdraw your consent at any time, in whole or in part. To use these rights, see [Your choices](#your-choices). You may also complain to the data protection authority established under that law. If Bangladeshi law treats you as a child, a parent or guardian must agree before you use the game.
 
 ## Children
-The game's content is rated suitable for all ages (Everyone / 4+), but the game is **not directed at children under 13**, or under the minimum age for consent in your country (for example 16 in parts of the EEA). We don't knowingly collect personal information from children. If you believe a child has given us personal information through the game, contact [SUPPORT_EMAIL] and we will delete it.
+The game's content is rated suitable for all ages (Everyone / 4+). That rating describes the content only: the game is designed for adults and is **not directed at children under 13**, or under the minimum age for consent in your country (for example 16 in parts of the EEA). We don't knowingly collect personal information from children. If you believe a child has given us personal information through the game, contact [SUPPORT_EMAIL] and we will delete it.
 
 ## Security
 Data sent by the game is encrypted in transit (HTTPS/TLS). Data on your device is protected by your device's security, and the game's save file includes a tamper check. No method is 100% secure, but we limit what we collect to what the game needs.
